@@ -111,6 +111,7 @@
 
 **⭐ From [aerayalkan](https://github.com/aerayalkan) with ❤️**
 
-![Profile Views](https://komarev.com/ghpvc/?username=aerayalkan&color=blue&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=aerayalkan&color=brightgreen&style=for-the-badge)](https://github.com/aerayalkan)
 
+</div>
 </div>
