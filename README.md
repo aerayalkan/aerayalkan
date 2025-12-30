@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmeterayalkan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeterayalkan)
 [![Instagram](https://img.shields.io/badge/Instagram-aeray.alkan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aeray.alkan/)
 
-**Junior Software Engineering Student** @ Eastern Mediterranean University  
+Software Engineer @ Eastern Mediterranean University  
 **Certified by Google** | AI Enthusiast | Cybersecurity & Data Analytics
 
 <a href="https://stardev.io/developers/aerayalkan">
