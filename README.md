@@ -48,7 +48,6 @@
       <img src="https://img.shields.io/badge/Role-Software_Engineer_%26_AI_Researcher-00FF41?style=flat-square&logo=visual-studio-code&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/Location-Famagusta%2C_Cyprus_🇨🇾-00FF41?style=flat-square&logo=google-maps&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/Education-Eastern_Mediterranean_University-00FF41?style=flat-square&logo=graduation-cap&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Status-Active_Student-00FF41?style=flat-square" />
     </td>
     <td align="left" width="50%">
       <h3>🚀 Core Expertise</h3>
