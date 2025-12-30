@@ -88,7 +88,7 @@ Software Engineer @ Eastern Mediterranean University
 ## 🏆 Achievements
 
 - ✅ **Google Certified** - Software Engineering & Data Analytics
-- 🎓 **Eastern Mediterranean University** - Software Engineering Student
+- 🎓 **Eastern Mediterranean University** - Software Engineer
 - 🚀 **Active Open Source Contributor**
 - 💡 **AI/ML Project Developer**
 
@@ -99,7 +99,6 @@ Software Engineer @ Eastern Mediterranean University
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-ahmeterayalkan.com-blue?style=for-the-badge)](https://ahmeterayalkan.com)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:contact@ahmeterayalkan.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/ahmeterayalkan)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge)](https://www.instagram.com/aeray.alkan/)
 
