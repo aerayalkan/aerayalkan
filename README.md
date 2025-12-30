@@ -2,8 +2,7 @@
   
 # 👨‍💻 Ahmet Eray ALKAN
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmeterayalkan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmeterayalkan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmeterayalkan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeterayalkan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmeterayalkan-green?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeterayalkan)
 [![Instagram](https://img.shields.io/badge/Instagram-aeray.alkan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aeray.alkan/)
 
 Software Engineer @ Eastern Mediterranean University  
