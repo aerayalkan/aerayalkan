@@ -126,7 +126,7 @@
 
 **Objective:** Create accessible, professional-grade image enhancement tools for iOS users.
 
-**Timeline:** Q2 2025 Beta Release
+**Timeline:** Q2 2026 Beta Release
 
 <div align="center">
 
