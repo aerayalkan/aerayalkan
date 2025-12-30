@@ -182,16 +182,16 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aerayalkan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d9ff&text_color=ffffff&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aerayalkan&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=00d9ff&currStreakLabel=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aerayalkan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d9ff&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aerayalkan&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=00d9ff&currStreakLabel=ffffff&cache=1"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aerayalkan&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=ff6b6b&line=00d9ff&point=ffffff&area_color=00d9ff&title_color=ff6b6b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aerayalkan&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=ff6b6b&line=00d9ff&point=ffffff&area_color=00d9ff&title_color=ff6b6b&area=true&hide_border=true&cache=1" width="100%"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aerayalkan&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aerayalkan&theme=radical&cache=1" width="100%"/>
 
 <br>
 
