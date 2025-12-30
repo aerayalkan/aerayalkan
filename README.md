@@ -1,16 +1,126 @@
-## Hi there 👋
+<div align="center">
+  
+# 👨‍💻 Ahmet Eray ALKAN
 
-<!--
-**aerayalkan/aerayalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmeterayalkan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmeterayalkan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmeterayalkan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeterayalkan)
+[![Instagram](https://img.shields.io/badge/Instagram-aeray.alkan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aeray.alkan/)
 
-Here are some ideas to get you started:
+**Junior Software Engineering Student** @ Eastern Mediterranean University  
+**Certified by Google** | AI Enthusiast | Cybersecurity & Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://stardev.io/developers/aerayalkan">
+  <img alt="Check out my profile on stardev.io" src="https://stardev.io/developers/aerayalkan/badge/languages/global.svg" />
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+```typescript
+const eray = {
+    location: "Famagusta, Northern Cyprus 🇨🇾",
+    education: "Software Engineering @ EMU",
+    interests: ["AI/ML", "Cybersecurity", "Data Analytics", "iOS Development"],
+    currentFocus: "Building AI-powered image enhancement solutions",
+    certifications: ["Google Certified"],
+    lifePhilosophy: "Code. Learn. Innovate. Repeat. 🔄"
+};
+```
+
+---
+
+## 💼 Technical Skills
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stablediffusion&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Cybersecurity & Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🔥 Current Projects
+
+### 🎨 AI Image Enhancement App
+> Building a professional-grade iOS app powered by Stable Diffusion & ControlNet
+- **Tech Stack:** Swift, Python, PyTorch, Core ML
+- **Goal:** Magnific AI competitor for mobile
+- **Status:** Model training phase
+
+### 🔐 Cybersecurity Research
+> Exploring modern threat detection and network security
+- Penetration testing tools
+- Network traffic analysis
+- Vulnerability assessment
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aerayalkan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/aerayalkan)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerayalkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/aerayalkan)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aerayalkan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/aerayalkan)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- ✅ **Google Certified** - Software Engineering & Data Analytics
+- 🎓 **Eastern Mediterranean University** - Software Engineering Student
+- 🚀 **Active Open Source Contributor**
+- 💡 **AI/ML Project Developer**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Website-ahmeterayalkan.com-blue?style=for-the-badge)](https://ahmeterayalkan.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:contact@ahmeterayalkan.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/ahmeterayalkan)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge)](https://www.instagram.com/aeray.alkan/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+**⭐ From [aerayalkan](https://github.com/aerayalkan) with ❤️**
+
+![Profile Views](https://komarev.com/ghpvc/?username=aerayalkan&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
