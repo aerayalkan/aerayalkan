@@ -18,16 +18,12 @@
 ---
 
 ## 🚀 About Me
-```typescript
-const eray = {
-    location: "Famagusta, Northern Cyprus 🇨🇾",
-    education: "Software Engineering @ EMU",
-    interests: ["AI/ML", "Cybersecurity", "Data Analytics", "iOS Development"],
-    currentFocus: "Building AI-powered image enhancement solutions",
-    certifications: ["Google Certified"],
-    lifePhilosophy: "Code. Learn. Innovate. Repeat. 🔄"
-};
-```
+
+- 📍 **Location:** Famagusta, Northern Cyprus 🇨🇾
+- 🎓 **Education:** Software Engineering @ Eastern Mediterranean University
+- 💼 **Interests:** AI/ML • Cybersecurity • Data Analytics • iOS Development
+- 🏆 **Certifications:** Google Certified
+- 💭 **Philosophy:** Code. Learn. Innovate. Repeat. 🔄
 
 ---
 
@@ -111,13 +107,7 @@ const eray = {
 
 ---
 
-<div align="center">
 
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 **⭐ From [aerayalkan](https://github.com/aerayalkan) with ❤️**
 
