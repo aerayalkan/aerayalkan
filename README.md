@@ -74,12 +74,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aerayalkan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/aerayalkan)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerayalkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/aerayalkan)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aerayalkan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aerayalkan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/aerayalkan)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerayalkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=aerayalkan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
 
 </div>
 
